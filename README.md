@@ -1,4 +1,3 @@
-# SPL_npp
 <h1>Splunk SPL formatting for Notepad++</h1>
 
 For Notepad++ in darkmode, change the foreground color for lightmode.
